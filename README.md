@@ -1,7 +1,7 @@
 <div align="center" style="background-color:#000; color:#fff; padding:40px 20px; border-radius:12px;">
 
   <h1 style="font-size:3rem;">👋 Helllllo World !</h1>
-  <h2 style="margin-top:10px; font-weight:400;">Project Admin @OpenSourceConnectIndia • Top 100 @SWoC'25 • GSSoC'25 Mentor</h2>
+  <h2 style="margin-top:10px; font-weight:400;"></h2>
   
   <br/>
 
@@ -53,23 +53,12 @@
 ---
 
 ## 🚀 Featured Projects  
-- 🔥 **FitYou** – AI-based fitness & diet plan generator  
-- 🔐 **Guard-AI** – Real-time proctoring & monitoring  
-- 📚 **Appledore** – C++ graph management library  
-- 🧠 **Jarvis** – AI voice assistant  
-- 🔊 **AudioDetection** – Real-time audio tracking + Speach to Text 
-- 📲 **QR Event Check-in** – QR-based attendance & admin dashboard
-- 🔐**SecureX** - Highly secured TOR detection platform
-- 🏫 **Class** – SRM student info platform *(in progress)*  
-- 🚌 **SRM Bus Tracker** – Realtime tracking for day scholars *(in progress)*
+- 🔥 
 
 ---
 
 ## 🎹 Fun Facts  
-- 🎼 *Classical Keyboardist for 10+ years*  
-- 🏀 *Sports Lover – Basketball & Tennis*  
-- 💭 *Love building AI-powered real-world tools*  
-- ✨ *UI/UX polishing in progress...*
+- 🎼 Player
 
 ---
 
