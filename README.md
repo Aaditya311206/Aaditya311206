@@ -15,7 +15,7 @@
 <p align="center">
   <a href="" target="_blank"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/Bento.me-000000?style=for-the-badge&logo=bento&logoColor=white" /></a>
+  <a href="https://linktr.ee/aaditya3112" target="_blank"><img src="https://img.shields.io/badge/Bento.me-000000?style=for-the-badge&logo=bento&logoColor=white" /></a>
   <a href="mailto:srivastavaaaditya3112@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
