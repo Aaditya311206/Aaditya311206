@@ -1,6 +1,6 @@
 <div align="center" style="background-color:#000; color:#fff; padding:40px 20px; border-radius:12px;">
 
-  <h1 style="font-size:3rem;">👋 Helllllo World i am aaditya the don of E2 !</h1>
+  <h1 style="font-size:3rem;">👋 Helllllo World!</h1>
   <h2 style="margin-top:10px; font-weight:400;"></h2>
   
   <br/>
